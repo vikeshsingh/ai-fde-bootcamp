@@ -1,0 +1,9 @@
+[project]
+name = "ai-fde-bootcamp"
+version = "0.1.0"
+description = "Code and notes from the AI Forward Deployed Engineer Bootcamp"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv]
+package = false
