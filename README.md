@@ -43,4 +43,4 @@ uv run class1/hello.py
   See [class1/README.md](class1/README.md) for session notes and
   [class1/uv_cmd.txt](class1/uv_cmd.txt) for the full uv command reference.
 - [class2/](class2/) — Session 2: Python fundamentals - variables/data types,
-  operators, collections.
+  operators, collections. See [class2/README.md](class2/README.md) for session notes.
