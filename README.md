@@ -39,10 +39,8 @@ uv run class1/hello.py
 
 ## Repo layout
 
-```
-class1/   Session 1: environment setup, first script, first notebook
-class2/   ...
-```
-
-See [class1/README.md](class1/README.md) for session-specific notes, and
-[class1/uv_cmd.txt](class1/uv_cmd.txt) for the full uv command reference.
+- [class1/](class1/) — Session 1: environment setup, first script, first notebook.
+  See [class1/README.md](class1/README.md) for session notes and
+  [class1/uv_cmd.txt](class1/uv_cmd.txt) for the full uv command reference.
+- [class2/](class2/) — Session 2: Python fundamentals - variables/data types,
+  operators, collections.
