@@ -46,3 +46,5 @@ uv run class1/hello.py
   operators, collections. See [class2/README.md](class2/README.md) for session notes.
 - [class3/](class3/) — Session 3: sets, dictionaries, typecasting, input/output,
   copying, string operations. See [class3/README.md](class3/README.md) for session notes.
+- [class4/](class4/) — Session 4: control flow, loops, functions, scope.
+  See [class4/README.md](class4/README.md) for session notes.
