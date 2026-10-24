@@ -44,3 +44,5 @@ uv run class1/hello.py
   [class1/uv_cmd.txt](class1/uv_cmd.txt) for the full uv command reference.
 - [class2/](class2/) — Session 2: Python fundamentals - variables/data types,
   operators, collections. See [class2/README.md](class2/README.md) for session notes.
+- [class3/](class3/) — Session 3: sets, dictionaries, typecasting, input/output,
+  copying, string operations. See [class3/README.md](class3/README.md) for session notes.
