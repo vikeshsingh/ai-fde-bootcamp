@@ -10,8 +10,10 @@ generators, iterators, streaming) framed around real FDE use cases
 
 ## Files
 
-No code files for this class — notes only below (class was taught
-directly in a notebook, not shared as a separate file this time).
+- `network/demo_file_1.ipynb` — `requests` GET examples, memory
+  management (garbage collection), generators and iterators, the PDF
+  page-reading generator pattern.
+- `assignment/assignment.txt` — Multipass installation assignment.
 
 ## Class notes
 

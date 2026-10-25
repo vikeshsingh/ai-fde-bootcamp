@@ -1,0 +1,17 @@
+Assignment : Install multipass
+Minimum requirement : 64-bit Intel/AMD CPU Apple Silicon (M1/M2/M3/M4)
+RAM: Minimum 4 GB of RAM installed on the host computer.
+(Multipass allocates 1 GB of RAM to the Linux instance by default, which is plenty for learning command-line basics)
+Storage: At least 5 GB of free disk space to store the software and the compressed Ubuntu operating system image.
+Windows: Windows 10 or 11 (Home or Pro).
+macOS: macOS 14 (Sonoma) or newer is highly recommended for seamless Apple Silicon support.
+
+How to Mount a Folder (Identical for Mac & Windows):
+1. Create a folder on the host machine (e.g., a folder named linux-class on the Desktop).
+2. Mount it to the Linux instance using the terminal:
+multipass mount ~/Desktop/linux-class linuxbox:/home/ubuntu/class-files
+Use code with caution.
+3. Access it instantly: Inside the instance, the student can type cd /home/ubuntu/class-files. Any file they add, delete, or edit inside that folder will instantly sync back and forth in real-time.
+
+# Launch a box with 2 CPU cores, 2GB RAM, and 15GB of disk space
+multipass launch --name linuxbox --cpus 2 --memory 2G --disk 15G 24.04
