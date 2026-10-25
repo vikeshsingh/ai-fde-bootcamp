@@ -48,3 +48,6 @@ uv run class1/hello.py
   copying, string operations. See [class3/README.md](class3/README.md) for session notes.
 - [class4/](class4/) — Session 4: control flow, loops, functions, scope.
   See [class4/README.md](class4/README.md) for session notes.
+- [class5/](class5/) — Session 5: network I/O, HTTP protocols, the `requests`
+  library, memory optimization (generators, iterators, streaming).
+  See [class5/README.md](class5/README.md) for session notes.
